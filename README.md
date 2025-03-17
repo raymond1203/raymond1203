@@ -33,8 +33,6 @@ I'm constantly exploring various fields where cloud computing can be applied, dr
 ![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
 ![Amazon DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
 ![Amazon CloudWatch](https://img.shields.io/badge/-CloudWatch-FF4F8B?style=flat-square&logo=amazon-cloudwatch&logoColor=white)
-![AWS SAM](https://img.shields.io/badge/-AWS%20SAM-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Serverless Framework](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
 <!-- 사용하는 도구에 맞게 수정하세요 -->
 
 ## 🏆 Projects & Competitions
