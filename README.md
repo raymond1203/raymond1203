@@ -23,8 +23,28 @@ I'm constantly exploring various fields where cloud computing can be applied, dr
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 <!-- 사용하는 도구에 맞게 수정하세요 -->
+
+## 🏆 Projects & Competitions
+### [AI 이미지 분류 챌린지]
+CIFAR-10 데이터셋을 활용한 이미지 분류 모델 개발. 정확도 92%로 대회 상위 5% 달성.
+- 🥇 대회 순위: 3위 / 150팀
+- 🔗 [GitHub Repo](리포지토리 링크)
+- 💡 기술 스택: PyTorch, CNN, Transfer Learning
+
+### [클라우드 기반 서버리스 대시보드]
+AWS Lambda와 API Gateway를 활용한 실시간 데이터 분석 대시보드. 10,000명 이상의 사용자 처리.
+- 🥈 해커톤 수상: 최우수 기술상
+- 🔗 [Live Demo](프로젝트 링크)
+- 🔗 [GitHub Repo](리포지토리 링크)
+- 💡 기술 스택: AWS, Node.js, React
+
+### [학생 데이터 분석 경진대회]
+대학생 학습 패턴 데이터를 분석하여 중도 이탈 예측 모델 개발. F1 스코어 0.87 달성.
+- 🏅 장려상 수상
+- 🔗 [GitHub Repo](리포지토리 링크)
+- 📊 [결과 보고서](보고서 링크)
+- 💡 기술 스택: Python, Scikit-learn, Pandas
 
 ## 🔭 Projects
 ### [프로젝트 이름]
