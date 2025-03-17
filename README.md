@@ -76,6 +76,9 @@ I'm constantly exploring various fields where cloud computing can be applied, dr
 - 📧 Email: [ohs99598402@gmail.com](mailto:ohs99598402@gmail.com)
 - 💼 LinkedIn: [www.linkedin.com/in/hyeonseung-oh-1b6833247](https://www.linkedin.com/in/hyeonseung-oh-1b6833247)
 
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=raymond1203&show_icons=true&theme=radical)
+
 ## 🌱 Currently Learning
 I'm a student developer with a strong interest in cloud computing. I'm currently focusing on learning AWS cloud services, and I find serverless architecture and infrastructure automation particularly fascinating.
 
