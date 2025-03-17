@@ -23,6 +23,21 @@ I'm constantly exploring various fields where cloud computing can be applied, dr
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### Cloud & Serverless
+![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/-API%20Gateway-FF4F8B?style=flat-square&logo=amazon-aws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+![S3](https://img.shields.io/badge/-S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/-CloudFormation-FF4F8B?style=flat-square&logo=amazon-aws&logoColor=white)
+![Step Functions](https://img.shields.io/badge/-Step%20Functions-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![EventBridge](https://img.shields.io/badge/-EventBridge-FF4F8B?style=flat-square&logo=amazon-aws&logoColor=white)
+![SAM](https://img.shields.io/badge/-SAM-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+### Serverless Tools
+![Serverless Framework](https://img.shields.io/badge/-Serverless%20Framework-FD5750?style=flat-square&logo=serverless&logoColor=white)
+![AWS CDK](https://img.shields.io/badge/-AWS%20CDK-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 <!-- 사용하는 도구에 맞게 수정하세요 -->
 
 ## 🏆 Projects & Competitions
