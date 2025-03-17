@@ -25,15 +25,15 @@ I'm constantly exploring various fields where cloud computing can be applied, dr
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### Cloud & Serverless
-![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
-![Amazon DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
-![Amazon CloudWatch](https://img.shields.io/badge/-CloudWatch-FF4F8B?style=flat-square&logo=amazon-cloudwatch&logoColor=white)
-
-### Serverless Tools
-![Serverless Framework](https://img.shields.io/badge/-Serverless%20Framework-FD5750?style=flat-square&logo=serverless&logoColor=white)
-![AWS CDK](https://img.shields.io/badge/-AWS%20CDK-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/-EC2-232F3E?style=flat-square&logo=amazon-ec2&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/-RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white)
+![Amazon SQS](https://img.shields.io/badge/-SQS-FF4F8B?style=flat-square&logo=amazon-sqs&logoColor=white)
+![Amazon SNS](https://img.shields.io/badge/-SNS-FF9900?style=flat-square&logo=amazon-sns&logoColor=white)
+![AWS Fargate](https://img.shields.io/badge/-Fargate-0080FF?style=flat-square&logo=aws-fargate&logoColor=white)
+![Amazon ECS](https://img.shields.io/badge/-ECS-FF9900?style=flat-square&logo=amazon-ecs&logoColor=white)
+![Amazon Route53](https://img.shields.io/badge/-Route53-8C4FFF?style=flat-square&logo=amazon-route53&logoColor=white)
+![Amazon IAM](https://img.shields.io/badge/-IAM-232F3E?style=flat-square&logo=amazon-iam&logoColor=white)
+![Amazon API Gateway](https://img.shields.io/badge/-API%20Gateway-FF4F8B?style=flat-square&logo=amazon-api-gateway&logoColor=white)
 <!-- 사용하는 도구에 맞게 수정하세요 -->
 
 ## 🏆 Projects & Competitions
