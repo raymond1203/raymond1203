@@ -37,11 +37,9 @@ I'm constantly exploring various fields where cloud computing can be applied, dr
 - 🔗 [Live Demo](프로젝트 링크)
 - 🔗 [GitHub Repo](리포지토리 링크)
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 ## 📫 Contact Me
-- 📧 Email: [ohs99598402@gmail.com](mailtome:ohs99598402@gmail.com)
+- 📧 Email: [ohs99598402@gmail.com](mailto:ohs99598402@gmail.com)
 - 💼 LinkedIn: [www.linkedin.com/in/hyeonseung-oh-1b6833247](www.linkedin.com/in/hyeonseung-oh-1b6833247)
 
 ## 🌱 Currently Learning
@@ -52,4 +50,4 @@ I'm a student developer with a strong interest in cloud computing. I'm currently
 
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐️ From [raymond1203](https://github.com/raymond1203)
