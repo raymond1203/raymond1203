@@ -41,7 +41,7 @@ I'm constantly exploring various fields where cloud computing can be applied, dr
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 ## 📫 Contact Me
-- 📧 Email: [ohs99598402@gmail.com](ohs99598402@gmail.com)
+- 📧 Email: [ohs99598402@gmail.com](mailtome:ohs99598402@gmail.com)
 - 💼 LinkedIn: [www.linkedin.com/in/hyeonseung-oh-1b6833247](www.linkedin.com/in/hyeonseung-oh-1b6833247)
 
 ## 🌱 Currently Learning
