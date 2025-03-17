@@ -46,7 +46,7 @@ I'm constantly exploring various fields where cloud computing can be applied, dr
 I'm a student developer with a strong interest in cloud computing. I'm currently focusing on learning AWS cloud services, and I find serverless architecture and infrastructure automation particularly fascinating.
 
 ## 👯 Looking to Collaborate On
-[협업하고 싶은 프로젝트 유형이나 관심 분야를 작성하세요]
+I appreciate those who keep trying and putting in effort, regardless of their current skill level! I'm always open to collaborating with passionate individuals who share a growth mindset and continuous learning approach.
 
 ---
 
