@@ -1,16 +1,55 @@
-## 깃허브 관리가 문제네요...
+# 안녕하세요, [이름]입니다 👋
 
-<!--
-**raymond1203/raymond1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+[당신에 대한 간략한 소개를 작성하세요. 개발자/디자이너로서의 열정, 전문 분야, 관심사 등을 포함하세요.]
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+<!-- 사용하는 언어에 맞게 수정하세요 -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+<!-- 사용하는 프레임워크/라이브러리에 맞게 수정하세요 -->
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<!-- 사용하는 도구에 맞게 수정하세요 -->
+
+## 🔭 Projects
+### [프로젝트 이름]
+[프로젝트에 대한 간략한 설명 (1-2문장)]
+- 🔗 [Live Demo](프로젝트 링크)
+- 🔗 [GitHub Repo](리포지토리 링크)
+
+### [프로젝트 이름]
+[프로젝트에 대한 간략한 설명 (1-2문장)]
+- 🔗 [Live Demo](프로젝트 링크)
+- 🔗 [GitHub Repo](리포지토리 링크)
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+## 📫 Contact Me
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 💼 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile/)
+- 🌐 Website: [your-website.com](https://your-website.com)
+
+## 🌱 Currently Learning
+[현재 학습 중인 기술이나 관심 분야를 작성하세요]
+
+## 👯 Looking to Collaborate On
+[협업하고 싶은 프로젝트 유형이나 관심 분야를 작성하세요]
+
+---
+
+⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
