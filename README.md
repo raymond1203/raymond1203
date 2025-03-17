@@ -1,4 +1,4 @@
-# 안녕하세요, 클라우드에 관심이 많은 주니어 개발자입니다 👋
+# Hi there! I'm a junior developer passionate about cloud computing. 👋
 
 ## 🚀 About Me
 I am a student at Inha University passionate about cloud computing and serverless architecture. 
