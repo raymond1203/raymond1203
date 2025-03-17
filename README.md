@@ -42,14 +42,14 @@ I'm constantly exploring various fields where cloud computing can be applied, dr
 - 📅 January 2025 | Organizer: SmartSocial | Affiliation: Inha University
 - 👨‍💻 Role: Team Leader & Backend Developer
 - 🛠️ Tech Stack: AWS Serverless (Lambda, API Gateway, S3, DynamoDB)
-- 🔗 [BioDrone Project](https://github.com/your-username/BioDrone)
+- 🔗 [BioDrone Project](https://github.com/Jeju-CloudAi-Hackathon)
 
 ### 2024 GDGoC Project Marathon Excellence Award (2nd Place)
 > 💬 Chatbot-based Professor-Student Matching Service
 - 📅 November 2024 | Organizer: Inha University SW-Centered University Program
 - 👨‍💻 Role: Team Leader, Full Stack Developer
 - 🛠️ Tech Stack: React, Vite, TailwindCSS, AWS (Lambda, API Gateway, DynamoDB, Bedrock)
-- 🔗 [InpickAI Architecture & Code](https://github.com/2024-gdgoc-iron)
+- 🔗 [InpickAI Architecture & Code](https://github.com/2024-GDGoC-Iron)
 
 ### Technology Commercialization School (i-BTS) Sherlock Holmes "Agrathon" Excellence Award (3rd Place)
 > 🔍 Professor-Student Freelance Matching Platform
@@ -69,7 +69,7 @@ I'm constantly exploring various fields where cloud computing can be applied, dr
 - 📅 July 2024 - November 2024 | Inha University Club Project
 - 👨‍💻 Role: Team Leader & Backend Developer, Architecture Design
 - 🛠️ Tech Stack: AWS Serverless (Lambda, API Gateway, DynamoDB, Bedrock)
-- 🔗 [GitHub Repo](https://github.com/your-username/bedrock-gallery)
+- 🔗 [GitHub Repo](https://github.com/igrus-bedrock-gallery)
 - 📝 Key Achievement: Cloud Architecture Design and Serverless Environment Implementation
 
 ## 📫 Contact Me
