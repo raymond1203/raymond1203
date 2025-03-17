@@ -1,7 +1,10 @@
-# 안녕하세요, [이름]입니다 👋
+# 안녕하세요, 클라우드에 관심이 많은 주니어 개발자입니다 👋
 
 ## 🚀 About Me
-[당신에 대한 간략한 소개를 작성하세요. 개발자/디자이너로서의 열정, 전문 분야, 관심사 등을 포함하세요.]
+I am a student at Inha University passionate about cloud computing and serverless architecture. 
+I specialize in AWS services, where I enjoy designing and implementing serverless solutions to create practical demonstrations. 
+My expertise focuses on building efficient, scalable applications through AWS serverless architecture. 
+I'm constantly exploring various fields where cloud computing can be applied, driven by my enthusiasm for learning and implementing new technologies.
 
 ## 🛠️ Skills
 ### Languages
