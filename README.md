@@ -41,12 +41,11 @@ I'm constantly exploring various fields where cloud computing can be applied, dr
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 ## 📫 Contact Me
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile/)
-- 🌐 Website: [your-website.com](https://your-website.com)
+- 📧 Email: [your.email@example.com](ohs99598402@gmail.com)
+- 💼 LinkedIn: [your-linkedin-profile](www.linkedin.com/in/hyeonseung-oh-1b6833247)
 
 ## 🌱 Currently Learning
-[현재 학습 중인 기술이나 관심 분야를 작성하세요]
+I'm a student developer with a strong interest in cloud computing. I'm currently focusing on learning AWS cloud services, and I find serverless architecture and infrastructure automation particularly fascinating.
 
 ## 👯 Looking to Collaborate On
 [협업하고 싶은 프로젝트 유형이나 관심 분야를 작성하세요]
