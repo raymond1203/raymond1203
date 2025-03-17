@@ -29,8 +29,6 @@ I'm constantly exploring various fields where cloud computing can be applied, dr
 ![Amazon RDS](https://img.shields.io/badge/-RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white)
 ![Amazon SQS](https://img.shields.io/badge/-SQS-FF4F8B?style=flat-square&logo=amazon-sqs&logoColor=white)
 ![Amazon SNS](https://img.shields.io/badge/-SNS-FF9900?style=flat-square&logo=amazon-sns&logoColor=white)
-![AWS Fargate](https://img.shields.io/badge/-Fargate-0080FF?style=flat-square&logo=aws-fargate&logoColor=white)
-![Amazon ECS](https://img.shields.io/badge/-ECS-FF9900?style=flat-square&logo=amazon-ecs&logoColor=white)
 ![Amazon Route53](https://img.shields.io/badge/-Route53-8C4FFF?style=flat-square&logo=amazon-route53&logoColor=white)
 ![Amazon IAM](https://img.shields.io/badge/-IAM-232F3E?style=flat-square&logo=amazon-iam&logoColor=white)
 ![Amazon API Gateway](https://img.shields.io/badge/-API%20Gateway-FF4F8B?style=flat-square&logo=amazon-api-gateway&logoColor=white)
