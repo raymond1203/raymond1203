@@ -37,41 +37,40 @@ I'm constantly exploring various fields where cloud computing can be applied, dr
 
 ## 🏆 Awards & Achievements
 
-### AWS 클라우드 기반 AI 인재양성 프로그램 해커톤 최우수상 (2등)
-> 🌾 드론을 활용한 농작물 병해충 실시간 탐지 및 관리 스마트 농업 솔루션
-- 📅 2025.01 | 주최: 스마트소셜 | 소속: 인하대학교
-- 👨‍💻 역할: 팀장 & 백엔드 개발자
-- 🛠️ 기술 스택: AWS 서버리스 (Lambda, API Gateway, S3, DynamoDB)
-- 🔗 [BioDrone 프로젝트](https://github.com/your-username/BioDrone)
+### AWS Cloud-based AI Talent Development Program Hackathon Excellence Award (2nd Place)
+> 🌾 Smart Agriculture Solution for Real-time Detection and Management of Crop Pests using Drones
+- 📅 January 2025 | Organizer: SmartSocial | Affiliation: Inha University
+- 👨‍💻 Role: Team Leader & Backend Developer
+- 🛠️ Tech Stack: AWS Serverless (Lambda, API Gateway, S3, DynamoDB)
+- 🔗 [BioDrone Project](https://github.com/your-username/BioDrone)
 
-### 2024 GDGoC Project Marathon 우수상 (2등)
-> 💬 챗봇 기반 교수-학생 매칭 서비스
-- 📅 2024.11 | 주최: 인하대학교 SW중심대학사업단
-- 👨‍💻 역할: 팀장, 풀스택 개발
-- 🛠️ 기술 스택: React, Vite, TailwindCSS, AWS (Lambda, API Gateway, DynamoDB, Bedrock)
-- 🔗 [InpickAI 아키텍처 & 코드](https://github.com/2024-gdgoc-iron)
+### 2024 GDGoC Project Marathon Excellence Award (2nd Place)
+> 💬 Chatbot-based Professor-Student Matching Service
+- 📅 November 2024 | Organizer: Inha University SW-Centered University Program
+- 👨‍💻 Role: Team Leader, Full Stack Developer
+- 🛠️ Tech Stack: React, Vite, TailwindCSS, AWS (Lambda, API Gateway, DynamoDB, Bedrock)
+- 🔗 [InpickAI Architecture & Code](https://github.com/2024-gdgoc-iron)
 
-### 기술사업화학교(i-BTS) 셜록 홈즈 과정 "아그톤" 우수상 (3등)
-> 🔍 교수-학생 외주 매칭 플랫폼
-- 📅 2024.08 | 주최: 인하대학교 LINC 3.0 사업단
-- 👨‍💻 역할: 팀장 & 프론트엔드 개발
-- 🛠️ 기술 스택: React, TailwindCSS
+### Technology Commercialization School (i-BTS) Sherlock Holmes "Agrathon" Excellence Award (3rd Place)
+> 🔍 Professor-Student Freelance Matching Platform
+- 📅 August 2024 | Organizer: Inha University LINC 3.0 Program
+- 👨‍💻 Role: Team Leader & Frontend Developer
+- 🛠️ Tech Stack: React, TailwindCSS
 
-### GDSC인하 2024 Growthon 아이디어톤 최우수상
-> 👥 챗봇 기반 프로젝트 팀 매칭 서비스
-- 📅 2024.05 | 주최: Google Developer Student Clubs 인하대학교
-- 👨‍💻 역할: 아이디어 기획 및 프레젠테이션
+### GDSC Inha 2024 Growthon Ideathon Grand Prize
+> 👥 Chatbot-based Project Team Matching Service
+- 📅 May 2024 | Organizer: Google Developer Student Clubs Inha University
+- 👨‍💻 Role: Idea Planning and Presentation
 
 ## 🚀 Projects
 
 ### IGRUS BedrockGallery
-> AWS Bedrock 기반 생성형 AI 갤러리 플랫폼
-- 📅 2024.07 - 2024.11 | 인하대학교 동아리 프로젝트
-- 👨‍💻 역할: 팀장 & 백엔드 개발, 아키텍처 설계
-- 🛠️ 기술 스택: AWS 서버리스 (Lambda, API Gateway, DynamoDB, Bedrock)
+> Generative AI Gallery Platform based on AWS Bedrock
+- 📅 July 2024 - November 2024 | Inha University Club Project
+- 👨‍💻 Role: Team Leader & Backend Developer, Architecture Design
+- 🛠️ Tech Stack: AWS Serverless (Lambda, API Gateway, DynamoDB, Bedrock)
 - 🔗 [GitHub Repo](https://github.com/your-username/bedrock-gallery)
-- 📝 주요 성과: 클라우드 아키텍처 설계 및 서버리스 환경 구축
-
+- 📝 Key Achievement: Cloud Architecture Design and Serverless Environment Implementation
 
 ## 📫 Contact Me
 - 📧 Email: [ohs99598402@gmail.com](mailto:ohs99598402@gmail.com)
