@@ -51,7 +51,7 @@ I'm constantly exploring various fields where cloud computing can be applied, dr
 - 🛠️ Tech Stack: React, Vite, TailwindCSS, AWS (Lambda, API Gateway, DynamoDB, Bedrock)
 - 🔗 [InpickAI Architecture & Code](https://github.com/2024-GDGoC-Iron)
 
-### Technology Commercialization School (i-BTS) Sherlock Holmes "Agrathon" Excellence Award (3rd Place)
+### Technology Commercialization School (i-BTS) Sherlock Holmes "IGthon" Excellence Award (3rd Place)
 > 🔍 Professor-Student Freelance Matching Platform
 - 📅 August 2024 | Organizer: Inha University LINC 3.0 Program
 - 👨‍💻 Role: Team Leader & Frontend Developer
