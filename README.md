@@ -37,6 +37,13 @@ I'm constantly exploring various fields where cloud computing can be applied, dr
 
 ## 🏆 Awards & Achievements
 
+### AI Innovation Business Hackathon Excellence Award (1st Place)
+> 🤖 Excellent Prompt Engineering for AI Innovation Business
+- 📅 March 25, 2025 | Organizer: Nanum Angels & Inha University Blockchain Center | Affiliation: Inha University
+- 👨‍💻 Role: Frontend Developer
+- 🛠️ Tech Stack: React, TypeScript, Vite, TailwindCSS
+- 🔗 [2025 AI Hackathon Project](https://github.com/ChainCert-Inha)
+
 ### AWS Cloud-based AI Talent Development Program Hackathon Excellence Award (2nd Place)
 > 🌾 Smart Agriculture Solution for Real-time Detection and Management of Crop Pests using Drones
 - 📅 January 2025 | Organizer: SmartSocial | Affiliation: Inha University
