@@ -1,10 +1,9 @@
 # Hi there! I'm a junior developer passionate about cloud computing. 👋
 
 ## 🚀 About Me
-I am a student at Inha University passionate about cloud computing and serverless architecture. 
-I specialize in AWS services, where I enjoy designing and implementing serverless solutions to create practical demonstrations. 
-My expertise focuses on building efficient, scalable applications through AWS serverless architecture. 
-I'm constantly exploring various fields where cloud computing can be applied, driven by my enthusiasm for learning and implementing new technologies.
+I am a student at Inha University with a passion for Cloud/DevOps.
+I am passionate about cloud infrastructure design and DevOps pipeline construction, gaining hands-on experience by developing cloud services primarily focused on AWS. I am currently learning the comprehensive DevOps technology stack including CI/CD, infrastructure automation, and monitoring, while working on various projects aimed at building efficient and scalable systems.
+From application deployment in cloud-native environments to infrastructure management, I am continuously exploring diverse technical areas that bridge development and operations, committed to ongoing growth and learning.
 
 ## 🛠️ Skills
 ### Languages
