@@ -3,6 +3,9 @@
   <!-- Typing Animation Header -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;size=35&amp;duration=3000&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Hi+there!+I'm+a+junior+developer+👋;Passionate+about+Cloud+Computing+☁️;Building+the+future+with+AWS+🚀" alt="Typing SVG"/>
 
+  <!-- Profile Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=300&amp;section=header&amp;text=Cloud%20%26%20DevOps%20Engineer&amp;fontSize=50&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Turning%20Ideas%20into%20Scalable%20Solutions&amp;descAlignY=51&amp;descAlign=50"/>
+
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=raymond1203&amp;color=00D9FF&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile Views" />
   
@@ -103,6 +106,12 @@ From application deployment in cloud-native environments to infrastructure manag
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![Amazon DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
+![AWS CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white)
+![Amazon ECS](https://img.shields.io/badge/Amazon%20ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS%20IAM-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)e-badge&logo=amazon-dynamodb&logoColor=white)
 ![Amazon CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
 ![AWS CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white)
