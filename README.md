@@ -3,8 +3,11 @@
   <!-- Typing Animation Header -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;size=35&amp;duration=3000&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Hi+there!+I'm+a+junior+developer+👋;Passionate+about+Cloud+Computing+☁️;Building+the+future+with+AWS+🚀" alt="Typing SVG"/>
 
+  <!-- Profile Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=300&amp;section=header&amp;text=Cloud%20%26%20DevOps%20Engineer&amp;fontSize=50&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Turning%20Ideas%20into%20Scalable%20Solutions&amp;descAlignY=51&amp;descAlign=50"/>
+
   <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=raymond1203&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=raymond1203&amp;color=00D9FF&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile Views" />
   
   <!-- Dynamic Badges -->
   <p>
@@ -41,9 +44,25 @@ From application deployment in cloud-native environments to infrastructure manag
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-### 🚀 Frameworks & Libraries
+### 🚀 Frontend & CSS
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚡ Backend & API
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+### 🔧 DevOps & Infrastructure  
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### 🗄️ Database & ORM
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
