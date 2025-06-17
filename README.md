@@ -128,7 +128,7 @@ From application deployment in cloud-native environments to infrastructure manag
         <p>• 2024 IGRUS Executive Member</p>
         <p>• 2024 INHA SW NET-Zero Co-Hackathon Organizer</p>
         <br/>
-        <p><strong>🛩️ Military Service</strong></p>
+        <p><strong>🛩️ Military</strong></p>
         <p>Republic of Korea Air Force (ROKAF)</p>
         <p>📅 July 28, 2025 - April 27, 2027</p>
         <p>🎖️ Class 870 Airman</p>
