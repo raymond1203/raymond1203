@@ -1,19 +1,19 @@
 <div align="center">
   
   <!-- Typing Animation Header -->
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+a+junior+developer+%F0%9F%91%8B;Passionate+about+Cloud+Computing+%E2%98%81%EF%B8%8F;Building+the+future+with+AWS+%F0%9F%9A%80)
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;size=35&amp;duration=3000&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Hi+there!+I'm+a+junior+developer+👋;Passionate+about+Cloud+Computing+☁️;Building+the+future+with+AWS+🚀" alt="Typing SVG"/>
 
   <!-- Profile Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Cloud%20%26%20DevOps%20Engineer&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Turning%20Ideas%20into%20Scalable%20Solutions&descAlignY=51&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=300&amp;section=header&amp;text=Cloud%20%26%20DevOps%20Engineer&amp;fontSize=50&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Turning%20Ideas%20into%20Scalable%20Solutions&amp;descAlignY=51&amp;descAlign=50"/>
 
   <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=raymond1203&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=raymond1203&amp;color=00D9FF&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile Views" />
   
   <!-- Dynamic Badges -->
   <p>
     <a href="https://www.linkedin.com/in/hyeonseung-oh-1b6833247"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
     <a href="mailto:ohs99598402@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-    <a href="https://github.com/raymond1203"><img src="https://img.shields.io/github/followers/raymond1203?label=Follow&style=for-the-badge&color=blue"/></a>
+    <a href="https://github.com/raymond1203"><img src="https://img.shields.io/github/followers/raymond1203?label=Follow&amp;style=for-the-badge&amp;color=blue"/></a>
   </p>
 
 </div>
@@ -159,15 +159,15 @@ From application deployment in cloud-native environments to infrastructure manag
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=raymond1203&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=raymond1203&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D9FF&amp;icon_color=00D9FF&amp;text_color=ffffff" alt="GitHub Stats"/>
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=raymond1203&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=raymond1203&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;stroke=00D9FF&amp;ring=00D9FF&amp;fire=00D9FF&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;currStreakLabel=00D9FF&amp;sideLabels=ffffff&amp;dates=ffffff" alt="GitHub Streak"/>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymond1203&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymond1203&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D9FF&amp;text_color=ffffff" alt="Top Languages"/>
       </td>
     </tr>
   </table>
@@ -179,7 +179,7 @@ From application deployment in cloud-native environments to infrastructure manag
 
 <div align="center">
   
-  ![Learning Animation](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🔧+AWS+Cloud+Services;🐳+Infrastructure+Automation;📊+Monitoring+%26+Observability;🚀+Serverless+Architecture)
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;size=20&amp;duration=2000&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=🔧+AWS+Cloud+Services;🐳+Infrastructure+Automation;📊+Monitoring+%26+Observability;🚀+Serverless+Architecture" alt="Learning Animation"/>
 
 </div>
 
@@ -191,7 +191,7 @@ I'm a student developer with a strong interest in cloud computing. I'm currently
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=I+appreciate+those+who+keep+trying+and+putting+in+effort;Always+open+to+collaborating+with+passionate+individuals;Growth+mindset+and+continuous+learning+approach"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;size=18&amp;duration=3000&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=I+appreciate+those+who+keep+trying+and+putting+in+effort;Always+open+to+collaborating+with+passionate+individuals;Growth+mindset+and+continuous+learning+approach" alt="Collaboration Message"/>
 
   <br/>
   
@@ -211,7 +211,7 @@ I'm a student developer with a strong interest in cloud computing. I'm currently
 
 <div align="center">
   
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer)
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=120&amp;section=footer)
   
   ⭐️ From [raymond1203](https://github.com/raymond1203) with 💙
 
