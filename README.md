@@ -3,6 +3,9 @@
   <!-- Typing Animation Header -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;size=35&amp;duration=3000&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Hi+there!+I'm+a+junior+developer+👋;Passionate+about+Cloud+Computing+☁️;Building+the+future+with+AWS+🚀" alt="Typing SVG"/>
 
+  <!-- Profile Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=300&amp;section=header&amp;text=Cloud%20%26%20DevOps%20Engineer&amp;fontSize=50&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Turning%20Ideas%20into%20Scalable%20Solutions&amp;descAlignY=51&amp;descAlign=50"/>
+
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=raymond1203&amp;color=00D9FF&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile Views" />
   
@@ -178,7 +181,17 @@ From application deployment in cloud-native environments to infrastructure manag
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="100%">
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/AWS%20Serverless-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white"/>
+        <h3>☁️ AWS-Serverless-DEMO</h3>
+        <p><strong>Comprehensive Serverless Learning Hub</strong></p>
+        <p>📅 2024 - Present | Educational Project Collection</p>
+        <p>👨‍💻 <strong>Role:</strong> Creator & Maintainer</p>
+        <p>🛠️ <strong>Tech Stack:</strong> AWS Lambda, API Gateway, DynamoDB, S3, Serverless Framework</p>
+        <p>📝 <strong>Key Achievement:</strong> Created hands-on serverless learning materials with practical demos</p>
+        <p><a href="https://github.com/AWS-Serverless-DEMO">🔗 GitHub Organization</a></p>
+      </td>
+      <td align="center" width="50%">
         <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
         <h3>🎨 IGRUS BedrockGallery</h3>
         <p><strong>Generative AI Gallery Platform based on AWS Bedrock</strong></p>
