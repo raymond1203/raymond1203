@@ -7,7 +7,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Cloud%20%26%20DevOps%20Engineer&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Turning%20Ideas%20into%20Scalable%20Solutions&descAlignY=51&descAlign=50"/>
 
   <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=raymond1203&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=raymond1203&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   
   <!-- Dynamic Badges -->
   <p>
