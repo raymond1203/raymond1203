@@ -182,7 +182,7 @@ From application deployment in cloud-native environments to infrastructure manag
         <img src="https://img.shields.io/badge/AWS%20Serverless-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white"/>
         <h3>☁️ AWS-Serverless-DEMO</h3>
         <p><strong>Comprehensive Serverless Learning Hub</strong></p>
-        <p>📅 2024 - Present | Educational Project Collection</p>
+        <p>📅 2025 - Present | Educational Project Collection</p>
         <p>👨‍💻 <strong>Role:</strong> Creator & Maintainer</p>
         <p>🛠️ <strong>Tech Stack:</strong> AWS Lambda, API Gateway, DynamoDB, S3, Serverless Framework</p>
         <p>📝 <strong>Key Achievement:</strong> Created hands-on serverless learning materials with practical demos</p>
@@ -204,7 +204,7 @@ From application deployment in cloud-native environments to infrastructure manag
         <img src="https://img.shields.io/badge/DevOps%20Learning-4CAF50?style=for-the-badge&logo=tools&logoColor=white"/>
         <h3>🛠️ DevOpsLab-OZ</h3>
         <p><strong>DevOps Learning Journey & Practice Projects</strong></p>
-        <p>📅 2024 - Present | Personal Learning Laboratory</p>
+        <p>📅 2025 - Present | Personal Learning Laboratory</p>
         <p>👨‍💻 <strong>Role:</strong> Solo Developer & Learner</p>
         <p>🛠️ <strong>Tech Stack:</strong> Python, Flask, Docker, Shell Script, Zsh, Linux</p>
         <p>📝 <strong>Key Achievement:</strong> Built network monitoring tools, automation scripts, and development environment setup</p>
