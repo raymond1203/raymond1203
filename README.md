@@ -3,9 +3,6 @@
   <!-- Typing Animation Header -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;size=35&amp;duration=3000&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Hi+there!+I'm+a+junior+developer+👋;Passionate+about+Cloud+Computing+☁️;Building+the+future+with+AWS+🚀" alt="Typing SVG"/>
 
-  <!-- Profile Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=300&amp;section=header&amp;text=Cloud%20%26%20DevOps%20Engineer&amp;fontSize=50&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Turning%20Ideas%20into%20Scalable%20Solutions&amp;descAlignY=51&amp;descAlign=50"/>
-
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=raymond1203&amp;color=00D9FF&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile Views" />
   
@@ -145,6 +142,38 @@ From application deployment in cloud-native environments to infrastructure manag
 ![Amazon ECS](https://img.shields.io/badge/Amazon%20ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white)
 ![AWS IAM](https://img.shields.io/badge/AWS%20IAM-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/🎓-Education-4285F4?style=for-the-badge"/>
+        <h3>🏫 Inha University</h3>
+        <p><strong>Bachelor of Computer Science & Engineering</strong></p>
+        <p>📅 March 2023 - July 2029</p>
+        <p>🏢 <strong>Activities:</strong></p>
+        <p>• 2024 IGRUS Executive Member</p>
+        <p>• 2024 INHA SW NET-Zero Co-Hackathon Organizer</p>
+        <p>🛠️ <strong>Core Skills:</strong> SQL, Cloud Computing, +6 Technical Skills</p>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/📜-Certifications-28A745?style=for-the-badge"/>
+        <h3>🏆 Professional Certifications</h3>
+        <p><strong>SQL Developer (SQLD)</strong></p>
+        <p>📅 September 2024</p>
+        <p>🏢 Korea Data Industry Promotion Institute</p>
+        <br/>
+        <p><strong>Information Processing Engineer</strong></p>
+        <p>📅 September 2024</p>
+        <p>🏢 Human Resources Development Service of Korea</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
