@@ -3,9 +3,6 @@
   <!-- Typing Animation Header -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;size=35&amp;duration=3000&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Hi+there!+I'm+a+junior+developer+👋;Passionate+about+Cloud+Computing+☁️;Building+the+future+with+AWS+🚀" alt="Typing SVG"/>
 
-  <!-- Profile Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=300&amp;section=header&amp;text=Cloud%20%26%20DevOps%20Engineer&amp;fontSize=50&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Turning%20Ideas%20into%20Scalable%20Solutions&amp;descAlignY=51&amp;descAlign=50"/>
-
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=raymond1203&amp;color=00D9FF&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile Views" />
   
@@ -200,6 +197,18 @@ From application deployment in cloud-native environments to infrastructure manag
         <p>🛠️ <strong>Tech Stack:</strong> AWS Serverless (Lambda, API Gateway, DynamoDB, Bedrock)</p>
         <p>📝 <strong>Key Achievement:</strong> Cloud Architecture Design and Serverless Environment Implementation</p>
         <p><a href="https://github.com/igrus-bedrock-gallery">🔗 GitHub Repository</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://img.shields.io/badge/DevOps%20Learning-4CAF50?style=for-the-badge&logo=tools&logoColor=white"/>
+        <h3>🛠️ DevOpsLab-OZ</h3>
+        <p><strong>DevOps Learning Journey & Practice Projects</strong></p>
+        <p>📅 2024 - Present | Personal Learning Laboratory</p>
+        <p>👨‍💻 <strong>Role:</strong> Solo Developer & Learner</p>
+        <p>🛠️ <strong>Tech Stack:</strong> Python, Flask, Docker, Shell Script, Zsh, Linux</p>
+        <p>📝 <strong>Key Achievement:</strong> Built network monitoring tools, automation scripts, and development environment setup</p>
+        <p><a href="https://github.com/DevOpsLab-OZ">🔗 GitHub Organization</a></p>
       </td>
     </tr>
   </table>
