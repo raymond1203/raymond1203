@@ -123,11 +123,10 @@ From application deployment in cloud-native environments to infrastructure manag
         <img src="https://img.shields.io/badge/🎓-Education-4285F4?style=for-the-badge"/>
         <h3>🏫 Inha University</h3>
         <p><strong>Bachelor of Computer Science & Engineering</strong></p>
-        <p>📅 March 2023 - July 2029</p>
+        <p>📅 March 2023 ~ Now</p>
         <p>🏢 <strong>Activities:</strong></p>
         <p>• 2024 IGRUS Executive Member</p>
         <p>• 2024 INHA SW NET-Zero Co-Hackathon Organizer</p>
-        <p>🛠️ <strong>Core Skills:</strong> SQL, Cloud Computing, +6 Technical Skills</p>
       </td>
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/📜-Certifications-28A745?style=for-the-badge"/>
