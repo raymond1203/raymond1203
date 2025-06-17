@@ -140,7 +140,7 @@ From application deployment in cloud-native environments to infrastructure manag
         <p>📅 September 2024</p>
         <p>🏢 Korea Data Industry Promotion Institute</p>
         <br/>
-        <p><strong>Information Processing Engineer</strong></p>
+        <p><strong>Information Processing Technician</strong></p>
         <p>📅 September 2024</p>
         <p>🏢 Human Resources Development Service of Korea</p>
       </td>
