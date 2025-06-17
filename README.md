@@ -42,6 +42,8 @@ From application deployment in cloud-native environments to infrastructure manag
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![HCL](https://img.shields.io/badge/HCL-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### 🚀 Frontend & CSS
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -52,6 +54,8 @@ From application deployment in cloud-native environments to infrastructure manag
 ### ⚡ Backend & API
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
 
 ### 🔧 DevOps & Infrastructure  
@@ -69,9 +73,10 @@ From application deployment in cloud-native environments to infrastructure manag
 ![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
-### 📄 Configuration & IaC
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-![HCL](https://img.shields.io/badge/HCL-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+### 💻 Environment & Systems
+![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### 🗄️ Database & Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -182,7 +187,7 @@ From application deployment in cloud-native environments to infrastructure manag
         <img src="https://img.shields.io/badge/AWS%20Serverless-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white"/>
         <h3>☁️ AWS-Serverless-DEMO</h3>
         <p><strong>Comprehensive Serverless Learning Hub</strong></p>
-        <p>📅 2025 - Present | Educational Project Collection</p>
+        <p>📅 2024 - Present | Educational Project Collection</p>
         <p>👨‍💻 <strong>Role:</strong> Creator & Maintainer</p>
         <p>🛠️ <strong>Tech Stack:</strong> AWS Lambda, API Gateway, DynamoDB, S3, Serverless Framework</p>
         <p>📝 <strong>Key Achievement:</strong> Created hands-on serverless learning materials with practical demos</p>
@@ -204,7 +209,7 @@ From application deployment in cloud-native environments to infrastructure manag
         <img src="https://img.shields.io/badge/DevOps%20Learning-4CAF50?style=for-the-badge&logo=tools&logoColor=white"/>
         <h3>🛠️ DevOpsLab-OZ</h3>
         <p><strong>DevOps Learning Journey & Practice Projects</strong></p>
-        <p>📅 2025 - Present | Personal Learning Laboratory</p>
+        <p>📅 2024 - Present | Personal Learning Laboratory</p>
         <p>👨‍💻 <strong>Role:</strong> Solo Developer & Learner</p>
         <p>🛠️ <strong>Tech Stack:</strong> Python, Flask, Docker, Shell Script, Zsh, Linux</p>
         <p>📝 <strong>Key Achievement:</strong> Built network monitoring tools, automation scripts, and development environment setup</p>
