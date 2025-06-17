@@ -48,6 +48,7 @@ From application deployment in cloud-native environments to infrastructure manag
 - 📅 March 25, 2025 | Organizer: Nanum Angels & Inha University Blockchain Center | Affiliation: Inha University
 - 👨‍💻 Role: Frontend Developer
 - 🛠️ Tech Stack: React, TypeScript, Vite, TailwindCSS
+- 📝 Key Achievement: Led frontend development for blockchain-based certification system with innovative AI prompt engineering approach
 - 🔗 [2025 AI Hackathon Project](https://github.com/ChainCert-Inha)
 
 ### AWS Cloud-based AI Talent Development Program Hackathon Excellence Award (2nd Place)
@@ -55,6 +56,7 @@ From application deployment in cloud-native environments to infrastructure manag
 - 📅 January 2025 | Organizer: SmartSocial | Affiliation: Inha University
 - 👨‍💻 Role: Team Leader & Backend Developer
 - 🛠️ Tech Stack: AWS Serverless (Lambda, API Gateway, S3, DynamoDB)
+- 📝 Key Achievement: Architected serverless backend infrastructure for real-time drone data processing and AI-powered pest detection system
 - 🔗 [BioDrone Project](https://github.com/Jeju-CloudAi-Hackathon)
 
 ### 2024 GDGoC Project Marathon Excellence Award (2nd Place)
@@ -62,6 +64,7 @@ From application deployment in cloud-native environments to infrastructure manag
 - 📅 November 2024 | Organizer: Inha University SW-Centered University Program
 - 👨‍💻 Role: Team Leader, Full Stack Developer
 - 🛠️ Tech Stack: React, Vite, TailwindCSS, AWS (Lambda, API Gateway, DynamoDB, Bedrock)
+- 📝 Key Achievement: Integrated AWS Bedrock AI services to create intelligent matching algorithm for professor-student connections
 - 🔗 [InpickAI Architecture & Code](https://github.com/2024-GDGoC-Iron)
 
 ### Technology Commercialization School (i-BTS) Sherlock Holmes "IGthon" Excellence Award (3rd Place)
@@ -69,11 +72,13 @@ From application deployment in cloud-native environments to infrastructure manag
 - 📅 August 2024 | Organizer: Inha University LINC 3.0 Program
 - 👨‍💻 Role: Team Leader & Frontend Developer
 - 🛠️ Tech Stack: React, TailwindCSS
+- 📝 Key Achievement: Designed user-centric interface and led team to develop scalable freelance matching platform prototype
 
 ### GDSC Inha 2024 Growthon Ideathon Grand Prize
 > 👥 Chatbot-based Project Team Matching Service
 - 📅 May 2024 | Organizer: Google Developer Student Clubs Inha University
 - 👨‍💻 Role: Idea Planning and Presentation
+- 📝 Key Achievement: Conceptualized innovative AI-driven team formation algorithm and delivered compelling presentation that secured grand prize
 
 ## 🚀 Projects
 
