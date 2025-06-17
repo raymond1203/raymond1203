@@ -17,43 +17,6 @@
 
 ---
 
-## 🎓 Education & Certifications
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/🎓-Education-4285F4?style=for-the-badge"/>
-        <h3>🏫 Inha University</h3>
-        <p><strong>Bachelor of Computer Science & Engineering</strong></p>
-        <p>📅 March 2023 - July 2029 (Expected)</p>
-        <p>🏢 <strong>Activities:</strong></p>
-        <p>• 2024 IGRUS Executive Member</p>
-        <p>• 2024 INHA SW NET-Zero Co-Hackathon Organizer</p>
-        <p>🛠️ <strong>Core Skills:</strong> SQL, Cloud Computing, +6 Technical Skills</p>
-        <br/>
-        <p><strong>🛩️ Military Service</strong></p>
-        <p>Republic of Korea Air Force (ROKAF)</p>
-        <p>📅 July 28, 2025 - April 27, 2027</p>
-        <p>🎖️ Class 870 Airman</p>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/📜-Certifications-28A745?style=for-the-badge"/>
-        <h3>🏆 Professional Certifications</h3>
-        <p><strong>SQL Developer (SQLD)</strong></p>
-        <p>📅 September 2024</p>
-        <p>🏢 Korea Data Industry Promotion Institute</p>
-        <br/>
-        <p><strong>Information Processing Engineer</strong></p>
-        <p>📅 September 2024</p>
-        <p>🏢 Human Resources Development Service of Korea</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -160,11 +123,15 @@ From application deployment in cloud-native environments to infrastructure manag
         <img src="https://img.shields.io/badge/🎓-Education-4285F4?style=for-the-badge"/>
         <h3>🏫 Inha University</h3>
         <p><strong>Bachelor of Computer Science & Engineering</strong></p>
-        <p>📅 March 2023 - July 2029</p>
+        <p>📅 March 2023 ~ Now</p>
         <p>🏢 <strong>Activities:</strong></p>
         <p>• 2024 IGRUS Executive Member</p>
         <p>• 2024 INHA SW NET-Zero Co-Hackathon Organizer</p>
-        <p>🛠️ <strong>Core Skills:</strong> SQL, Cloud Computing, +6 Technical Skills</p>
+        <br/>
+        <p><strong>🛩️ Military Service</strong></p>
+        <p>Republic of Korea Air Force (ROKAF)</p>
+        <p>📅 July 28, 2025 - April 27, 2027</p>
+        <p>🎖️ Class 870 Airman</p>
       </td>
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/📜-Certifications-28A745?style=for-the-badge"/>
