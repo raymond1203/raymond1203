@@ -36,6 +36,13 @@ From application deployment in cloud-native environments to infrastructure manag
 
 ## 🏆 Awards & Achievements
 
+### DKU Data Science Competition Gold Award (1st Place)
+> 🏭 Smart Factory Power Consumption Prediction AI Model Development
+- 📅 June 2025 | Organizer: Dankook University Student Organization | Affiliation: Inha University
+- 🤖 Role: AI Model Developer
+- 🛠️ Tech Stack: Python, Machine Learning, Time Series Analysis
+- 📝 Key Achievement: Developed AI model for predicting factory equipment power consumption using time series data analysis
+
 ### AI Innovation Business Hackathon Excellence Award (1st Place)
 > 🤖 Excellent Prompt Engineering for AI Innovation Business
 - 📅 March 25, 2025 | Organizer: Nanum Angels & Inha University Blockchain Center | Affiliation: Inha University
