@@ -20,11 +20,46 @@
 
 ---
 
+## 🎓 Education & Certifications
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/🎓-Education-4CAF50?style=for-the-badge"/>
+        <h3>🏫 Inha University</h3>
+        <p><strong>Bachelor of Computer Engineering</strong></p>
+        <p>📅 March 2023 - July 2029</p>
+        <p>🏛️ Department of Computer Engineering</p>
+        <p>🎯 <strong>Focus Areas:</strong> Cloud Computing, DevOps, Software Engineering</p>
+        <p>🏆 <strong>Activities:</strong></p>
+        <p>• 2024 IGRUS Executive Member</p>
+        <p>• 2024 INHA SW NET-Zero Hackathon Organizer</p>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/📜-Certifications-FF6B35?style=for-the-badge"/>
+        <h3>🏅 Professional Certifications</h3>
+        <p><strong>Engineer Information Processing</strong></p>
+        <p>📅 September 2024</p>
+        <p>🏢 Human Resources Development Service of Korea (HRD Korea)</p>
+        <p>🆔 Certificate ID: 24403052018M</p>
+        <br>
+        <p><strong>SQL Developer (SQLD)</strong></p>
+        <p>📅 September 2024</p>
+        <p>🏢 Korea Data Agency</p>
+        <p>🆔 Certificate ID: 054015769</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I am a student at **Inha University** with a passion for **Cloud/DevOps**.
+I am a **Computer Engineering** student at **Inha University** with a passion for **Cloud/DevOps**.
 
 I am passionate about cloud infrastructure design and DevOps pipeline construction, gaining hands-on experience by developing cloud services primarily focused on AWS. I am currently learning the comprehensive DevOps technology stack including CI/CD, infrastructure automation, and monitoring, while working on various projects aimed at building efficient and scalable systems.
 
