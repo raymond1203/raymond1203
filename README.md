@@ -55,6 +55,7 @@ From application deployment in cloud-native environments to infrastructure manag
 ### ⚡ Backend & API
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
 
 ### 🔧 DevOps & Infrastructure  
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -92,8 +93,7 @@ From application deployment in cloud-native environments to infrastructure manag
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-### ☁️ Cloud & Serverless
-![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
+### ☁️ AWS
 ![Amazon EC2](https://img.shields.io/badge/EC2-232F3E?style=for-the-badge&logo=amazon-ec2&logoColor=white)
 ![Amazon RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
 ![Amazon SQS](https://img.shields.io/badge/SQS-FF4F8B?style=for-the-badge&logo=amazon-sqs&logoColor=white)
