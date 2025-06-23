@@ -162,6 +162,7 @@ From application deployment in cloud-native environments to infrastructure manag
         <p>📅 June 2025 | 🤖 AI Model Developer</p>
         <p>🛠️ Python, Machine Learning, Time Series Analysis</p>
         <p>📝 Developed AI model for predicting factory equipment power consumption using time series data analysis</p>
+        <p><a href="https://github.com/2025-DKU-Kaggle-Competition-Ohsondoson">🔗 Project Link</a></p>
       </td>
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/🥇-1st_Place-FFD700?style=for-the-badge"/>
