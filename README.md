@@ -226,9 +226,9 @@ From application deployment in cloud-native environments to infrastructure manag
         <h3>🔍 IM.FACT</h3>
         <p><strong>AI-Powered Climate & Environmental Information Assistant</strong></p>
         <p>📅 2025 - Present | Open Source Project</p>
-        <p>👨‍💻 <strong>Role:</strong> Backend Developer & RAG System Architecture</p>
+        <p>👨‍💻 <strong>Role:</strong> Full Stack Developer & RAG System Architect</p>
         <p>🛠️ <strong>Tech Stack:</strong> FastAPI, PostgreSQL, Redis Vector Search, OpenAI GPT, Streamlit</p>
-        <p>📝 <strong>Key Achievement:</strong> Built RAG-based system with semantic caching and real-time web scraping for reliable climate information</p>
+        <p>📝 <strong>Key Achievement:</strong> Designed RAG architecture with semantic caching system and developed end-to-end application for reliable climate information</p>
         <p><a href="https://github.com/IM-FACT">🔗 GitHub Organization</a></p>
       </td>
       <td align="center" width="50%">
@@ -330,3 +330,5 @@ I'm a student developer with a strong interest in cloud computing. I'm currently
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer)
   
   ⭐️ From [raymond1203](https://github.com/raymond1203) with 💙
+
+</div>
