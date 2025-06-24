@@ -280,7 +280,16 @@ From application deployment in cloud-native environments to infrastructure manag
         <p><strong>AI-Powered Climate & Environmental Information Assistant</strong></p>
         <p>📅 2025 - Present | Open Source Project</p>
         <p>👨‍💻 <strong>Role:</strong> Full Stack Developer & RAG System Architect</p>
-        <p>🛠️ <strong>Tech Stack:</strong> FastAPI, PostgreSQL, Redis Vector Search, OpenAI GPT, Streamlit</p>
+        <p><strong>🛠️ Tech Stack:</strong></p>
+        <p>
+          <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/RAG-FF6B6B?style=flat-square&logo=ai&logoColor=white"/>
+        </p>
         <p>📝 <strong>Key Achievement:</strong> Designed RAG architecture with semantic caching system and developed end-to-end application for reliable climate information</p>
         <p><a href="https://github.com/IM-FACT">🔗 GitHub Organization</a></p>
       </td>
@@ -290,7 +299,15 @@ From application deployment in cloud-native environments to infrastructure manag
         <p><strong>Comprehensive Serverless Learning Hub</strong></p>
         <p>📅 2024 - Present | Educational Project Collection</p>
         <p>👨‍💻 <strong>Role:</strong> Creator & Maintainer</p>
-        <p>🛠️ <strong>Tech Stack:</strong> AWS Lambda, API Gateway, DynamoDB, S3, Serverless Framework</p>
+        <p><strong>🛠️ Tech Stack:</strong></p>
+        <p>
+          <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white"/>
+          <img src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat-square&logo=amazon-api-gateway&logoColor=white"/>
+          <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        </p>
         <p>📝 <strong>Key Achievement:</strong> Created hands-on serverless learning materials with practical demos</p>
         <p><a href="https://github.com/AWS-Serverless-DEMO">🔗 GitHub Organization</a></p>
       </td>
@@ -302,7 +319,14 @@ From application deployment in cloud-native environments to infrastructure manag
         <p><strong>Generative AI Gallery Platform based on AWS Bedrock</strong></p>
         <p>📅 July 2024 - November 2024 | Inha University Club Project</p>
         <p>👨‍💻 <strong>Role:</strong> Team Leader & Backend Developer, Architecture Design</p>
-        <p>🛠️ <strong>Tech Stack:</strong> AWS Serverless (Lambda, API Gateway, DynamoDB, Bedrock)</p>
+        <p><strong>🛠️ Tech Stack:</strong></p>
+        <p>
+          <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white"/>
+          <img src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat-square&logo=amazon-api-gateway&logoColor=white"/>
+          <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white"/>
+          <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        </p>
         <p>📝 <strong>Key Achievement:</strong> Cloud Architecture Design and Serverless Environment Implementation</p>
         <p><a href="https://github.com/igrus-bedrock-gallery">🔗 GitHub Repository</a></p>
       </td>
@@ -312,7 +336,15 @@ From application deployment in cloud-native environments to infrastructure manag
         <p><strong>DevOps Learning Journey & Practice Projects</strong></p>
         <p>📅 2024 - Present | Personal Learning Laboratory</p>
         <p>👨‍💻 <strong>Role:</strong> Solo Developer & Learner</p>
-        <p>🛠️ <strong>Tech Stack:</strong> Python, Flask, Docker, Shell Script, Zsh, Linux</p>
+        <p><strong>🛠️ Tech Stack:</strong></p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+        </p>
         <p>📝 <strong>Key Achievement:</strong> Built network monitoring tools, automation scripts, and development environment setup</p>
         <p><a href="https://github.com/DevOpsLab-OZ">🔗 GitHub Organization</a></p>
       </td>
