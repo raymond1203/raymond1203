@@ -165,9 +165,19 @@ From application deployment in cloud-native environments to infrastructure manag
         <img src="https://img.shields.io/badge/🥇-1st_Place-FFD700?style=for-the-badge"/>
         <h3>🏭 DKU Data Science Competition</h3>
         <p><strong>Smart Factory Power Consumption Prediction AI</strong></p>
-        <p>📅 June 2025 | 🤖 AI Model Developer</p>
-        <p>🛠️ Python, Machine Learning, Time Series Analysis</p>
-        <p>📝 Developed AI model for predicting factory equipment power consumption using time series data analysis</p>
+        <p>📅 June 2025 | 🤖 AI Model Developer | Team: 오손도손</p>
+        <p><strong>🛠️ Tech Stack:</strong></p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
+          <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+          <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+          <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Time%20Series-FF6B6B?style=flat-square&logo=chart-line&logoColor=white"/>
+        </p>
+        <p>📝 <strong>Achievement:</strong> Developed AI model for predicting factory equipment power consumption using time series data analysis and machine learning algorithms</p>
+        <p>🔍 <strong>Key Techniques:</strong> Time Series Forecasting, Feature Engineering, Regression Analysis</p>
         <p><a href="https://github.com/2025-DKU-Kaggle-Competition-Ohsondoson">🔗 Project Link</a></p>
       </td>
       <td align="center" width="50%">
