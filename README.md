@@ -185,7 +185,14 @@ From application deployment in cloud-native environments to infrastructure manag
         <h3>🤖 AI Innovation Business Hackathon</h3>
         <p><strong>Excellent Prompt Engineering for AI Innovation</strong></p>
         <p>📅 March 25, 2025 | 👨‍💻 Frontend Developer</p>
-        <p>🛠️ React, TypeScript, Vite, TailwindCSS</p>
+        <p><strong>🛠️ Tech Stack:</strong></p>
+        <p>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+          <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain-dot-com&logoColor=white"/>
+        </p>
         <p>📝 Led frontend development for blockchain-based certification system</p>
         <p><a href="https://github.com/ChainCert-Inha">🔗 Project Link</a></p>
       </td>
@@ -196,7 +203,15 @@ From application deployment in cloud-native environments to infrastructure manag
         <h3>🌾 AWS Cloud-based AI Talent Development</h3>
         <p><strong>Smart Agriculture Solution for Crop Pest Detection</strong></p>
         <p>📅 January 2025 | 👨‍💻 Team Leader & Backend Developer</p>
-        <p>🛠️ AWS Serverless (Lambda, API Gateway, S3, DynamoDB)</p>
+        <p><strong>🛠️ Tech Stack:</strong></p>
+        <p>
+          <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white"/>
+          <img src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat-square&logo=amazon-api-gateway&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white"/>
+          <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/AI%2FML-FF6B6B?style=flat-square&logo=tensorflow&logoColor=white"/>
+        </p>
         <p>📝 Architected serverless backend infrastructure for real-time drone data processing</p>
         <p><a href="https://github.com/Jeju-CloudAi-Hackathon">🔗 Project Link</a></p>
       </td>
@@ -205,7 +220,16 @@ From application deployment in cloud-native environments to infrastructure manag
         <h3>💬 GDGoC Project Marathon</h3>
         <p><strong>Chatbot-based Professor-Student Matching Service</strong></p>
         <p>📅 November 2024 | 👨‍💻 Team Leader, Full Stack Developer</p>
-        <p>🛠️ React, Vite, TailwindCSS, AWS (Lambda, API Gateway, DynamoDB, Bedrock)</p>
+        <p><strong>🛠️ Tech Stack:</strong></p>
+        <p>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+          <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+          <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white"/>
+          <img src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat-square&logo=amazon-api-gateway&logoColor=white"/>
+          <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white"/>
+          <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
+        </p>
         <p>📝 Integrated AWS Bedrock AI services to create intelligent matching algorithm</p>
         <p><a href="https://github.com/2024-GDGoC-Iron">🔗 Project Link</a></p>
       </td>
@@ -216,7 +240,13 @@ From application deployment in cloud-native environments to infrastructure manag
         <h3>🔍 Technology Commercialization School</h3>
         <p><strong>Professor-Student Freelance Matching Platform</strong></p>
         <p>📅 August 2024 | 👨‍💻 Team Leader & Frontend Developer</p>
-        <p>🛠️ React, TailwindCSS</p>
+        <p><strong>🛠️ Tech Stack:</strong></p>
+        <p>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+          <img src="https://img.shields.io/badge/UI%2FUX-FF69B4?style=flat-square&logo=figma&logoColor=white"/>
+        </p>
         <p>📝 Designed user-centric interface and led team to develop scalable platform prototype</p>
       </td>
       <td align="center" width="50%">
@@ -224,6 +254,13 @@ From application deployment in cloud-native environments to infrastructure manag
         <h3>👥 GDSC Inha Growthon Ideathon</h3>
         <p><strong>Chatbot-based Project Team Matching Service</strong></p>
         <p>📅 May 2024 | 👨‍💻 Idea Planning and Presentation</p>
+        <p><strong>🛠️ Skills Used:</strong></p>
+        <p>
+          <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Presentation-4285F4?style=flat-square&logo=google-presentations&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Ideation-9B59B6?style=flat-square&logo=lightbulb&logoColor=white"/>
+        </p>
         <p>📝 Conceptualized innovative AI-driven team formation algorithm and delivered compelling presentation</p>
       </td>
     </tr>
