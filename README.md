@@ -189,7 +189,7 @@ From application deployment in cloud-native environments to infrastructure manag
         <img src="https://img.shields.io/badge/🌍%20Climate%20AI-4CAF50?style=for-the-badge&logo=earth&logoColor=white"/>
         <h3>🔍 IM.FACT</h3>
         <p><strong>AI-Powered Climate & Environmental Information Assistant</strong></p>
-        <p>📅 2025 - Present | Open Source Project</p>
+        <p>📅 2025 - Present | Net-Zero Project</p>
         <p>👨‍💻 <strong>Role:</strong> Full Stack Developer & RAG System Architect</p>
         <p><strong>🛠️ Tech Stack:</strong></p>
         <p>
