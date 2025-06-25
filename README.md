@@ -2,9 +2,6 @@
   
   <!-- Typing Animation Header -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+a+junior+developer+👋;Passionate+about+Cloud+Computing+☁️;Building+the+future+with+AWS+🚀" alt="Typing SVG"/>
-
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=raymond1203&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   
   <!-- Dynamic Badges -->
   <p>
