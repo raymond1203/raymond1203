@@ -71,6 +71,26 @@ From application deployment in cloud-native environments to infrastructure manag
     <tr>
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/🥇-1st_Place-FFD700?style=for-the-badge"/>
+        <h3>📊 Trade Insurance Big Data Analysis Competition</h3>
+        <p><strong>Lag Effect Analysis of Export Pattern Changes on Trade Insurance Risk & AI Risk Index Validation</strong></p>
+        <p>📅 2025 | 🤖 Data Scientist & ML Engineer | Team: trade-insurance-analysis</p>
+        <p><strong>🛠️ Tech Stack:</strong></p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
+          <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+          <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+          <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Time%20Series-FF6B6B?style=flat-square&logo=chart-line&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Statistical%20Analysis-9B59B6?style=flat-square&logo=statistics&logoColor=white"/>
+        </p>
+        <p>📝 <strong>Achievement:</strong> Discovered 12-month optimal lag effect in export pattern changes affecting insurance claims, developed reliable prediction model with R² Score 0.578 for 129 countries</p>
+        <p>🔍 <strong>Key Techniques:</strong> Lag Effect Analysis, Data Leakage Prevention, ML Model Validation, Risk Assessment</p>
+        <p><a href="https://github.com/trade-insurance-analysis/trade_insurance_analysis">🔗 Project Link</a></p>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/🥇-1st_Place-FFD700?style=for-the-badge"/>
         <h3>🏭 DKU Data Science Competition</h3>
         <p><strong>Smart Factory Power Consumption Prediction AI</strong></p>
         <p>📅 June 2025 | 🤖 AI Model Developer | Team: 오손도손</p>
