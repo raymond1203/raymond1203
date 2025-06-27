@@ -108,6 +108,8 @@ From application deployment in cloud-native environments to infrastructure manag
         <p>🔍 <strong>Key Techniques:</strong> Time Series Forecasting, Feature Engineering, Regression Analysis</p>
         <p><a href="https://github.com/2025-DKU-Kaggle-Competition-Ohsondoson">🔗 Project Link</a></p>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/🥇-1st_Place-FFD700?style=for-the-badge"/>
         <h3>🤖 AI Innovation Business Hackathon</h3>
@@ -124,8 +126,6 @@ From application deployment in cloud-native environments to infrastructure manag
         <p>📝 Led frontend development for blockchain-based certification system</p>
         <p><a href="https://github.com/ChainCert-Inha">🔗 Project Link</a></p>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/🥈-2nd_Place-C0C0C0?style=for-the-badge"/>
         <h3>🌾 AWS Cloud-based AI Talent Development</h3>
@@ -143,6 +143,8 @@ From application deployment in cloud-native environments to infrastructure manag
         <p>📝 Architected serverless backend infrastructure for real-time drone data processing</p>
         <p><a href="https://github.com/Jeju-CloudAi-Hackathon">🔗 Project Link</a></p>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/🥈-2nd_Place-C0C0C0?style=for-the-badge"/>
         <h3>💬 GDGoC Project Marathon</h3>
@@ -161,8 +163,6 @@ From application deployment in cloud-native environments to infrastructure manag
         <p>📝 Integrated AWS Bedrock AI services to create intelligent matching algorithm</p>
         <p><a href="https://github.com/2024-GDGoC-Iron">🔗 Project Link</a></p>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/🥉-3rd_Place-CD7F32?style=for-the-badge"/>
         <h3>🔍 Technology Commercialization School</h3>
@@ -177,6 +177,8 @@ From application deployment in cloud-native environments to infrastructure manag
         </p>
         <p>📝 Designed user-centric interface and led team to develop scalable platform prototype</p>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/🏆-Grand_Prize-FF6B35?style=for-the-badge"/>
         <h3>👥 GDSC Inha Growthon Ideathon</h3>
@@ -190,6 +192,9 @@ From application deployment in cloud-native environments to infrastructure manag
           <img src="https://img.shields.io/badge/Ideation-9B59B6?style=flat-square&logo=lightbulb&logoColor=white"/>
         </p>
         <p>📝 Conceptualized innovative AI-driven team formation algorithm and delivered compelling presentation</p>
+      </td>
+      <td align="center" width="50%">
+        <!-- 빈 셀 or 향후 수상 내역 -->
       </td>
     </tr>
   </table>
