@@ -128,7 +128,7 @@ From application deployment in cloud-native environments to infrastructure manag
       </td>
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/🥈-2nd_Place-C0C0C0?style=for-the-badge"/>
-        <h3>🌾 AWS Cloud-based AI Talent Development</h3>
+        <h3>🌾 AWS X Jeju.Univ Hackathon</h3>
         <p><strong>Smart Agriculture Solution for Crop Pest Detection</strong></p>
         <p>📅 January 2025 | 👨‍💻 Team Leader & Backend Developer</p>
         <p><strong>🛠️ Tech Stack:</strong></p>
