@@ -41,11 +41,6 @@ From application deployment in cloud-native environments to infrastructure manag
         <p>🏢 <strong>Activities:</strong></p>
         <p>• 2024 IGRUS Executive Member</p>
         <p>• 2024 INHA SW NET-Zero Co-Hackathon Organizer</p>
-        <br/>
-        <p><strong>🛩️ Military</strong></p>
-        <p>Republic of Korea Air Force (ROKAF)</p>
-        <p>📅 July 28, 2025 - April 27, 2027</p>
-        <p>🎖️ Class 870 Airman</p>
       </td>
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/📜-Certifications-28A745?style=for-the-badge"/>
