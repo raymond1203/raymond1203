@@ -80,14 +80,6 @@ From application deployment in cloud-native environments to infrastructure manag
           <img src="https://img.shields.io/badge/Solutions%20Architect-✅-success?style=flat-square"/>
           <img src="https://img.shields.io/badge/AI%20Practitioner-✅-success?style=flat-square"/>
         </p>
-        <br/>
-        <p><strong>🎯 Next Goals:</strong></p>
-        <p>• AWS Developer Associate</p>
-        <p>• AWS DevOps Engineer Professional</p>
-        <p>• AWS Security Specialty</p>
-        <br/>
-        <p><strong>💡 Expertise Areas:</strong></p>
-        <p>Cloud Architecture • AI/ML • DevOps • Database</p>
       </td>
     </tr>
   </table>
