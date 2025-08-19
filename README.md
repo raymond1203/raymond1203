@@ -43,15 +43,51 @@ From application deployment in cloud-native environments to infrastructure manag
         <p>• 2024 INHA SW NET-Zero Co-Hackathon Organizer</p>
       </td>
       <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/📜-Certifications-28A745?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/☁️-AWS_Certifications-FF9900?style=for-the-badge"/>
+        <h3>🏆 AWS Professional Certifications</h3>
+        <p><strong>AWS Certified AI Practitioner</strong></p>
+        <p>📅 August 2025 - August 2028</p>
+        <p>🆔 c00e60a676e34bc996df5e12d0b51744</p>
+        <br/>
+        <p><strong>AWS Certified Solutions Architect – Associate</strong></p>
+        <p>📅 August 2025 - August 2028</p>
+        <p>🆔 a898d5b8c280447d8c974dd242c2a34f</p>
+        <br/>
+        <p><strong>AWS Certified Cloud Practitioner</strong></p>
+        <p>📅 July 2025 - July 2028</p>
+        <p>🆔 fe498b8fb67a4928b142696ea5025894</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/📜-Other_Certifications-28A745?style=for-the-badge"/>
         <h3>🏆 Professional Certifications</h3>
         <p><strong>SQL Developer (SQLD)</strong></p>
         <p>📅 September 2024</p>
         <p>🏢 Korea Data Industry Promotion Institute</p>
+        <p>🆔 054015769</p>
         <br/>
         <p><strong>Craftsman Information Processing</strong></p>
         <p>📅 September 2024</p>
         <p>🏢 Human Resources Development Service of Korea</p>
+        <p>🆔 24403052018M</p>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/📈-Certification_Journey-9B59B6?style=for-the-badge"/>
+        <h3>🎯 AWS Learning Path</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Cloud%20Practitioner-✅-success?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Solutions%20Architect-✅-success?style=flat-square"/>
+          <img src="https://img.shields.io/badge/AI%20Practitioner-✅-success?style=flat-square"/>
+        </p>
+        <br/>
+        <p><strong>🎯 Next Goals:</strong></p>
+        <p>• AWS Developer Associate</p>
+        <p>• AWS DevOps Engineer Professional</p>
+        <p>• AWS Security Specialty</p>
+        <br/>
+        <p><strong>💡 Expertise Areas:</strong></p>
+        <p>Cloud Architecture • AI/ML • DevOps • Database</p>
       </td>
     </tr>
   </table>
