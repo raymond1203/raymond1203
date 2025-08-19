@@ -72,15 +72,6 @@ From application deployment in cloud-native environments to infrastructure manag
         <p>🏢 Human Resources Development Service of Korea</p>
         <p>🆔 24403052018M</p>
       </td>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/📈-Certification_Journey-9B59B6?style=for-the-badge"/>
-        <h3>🎯 AWS Learning Path</h3>
-        <p>
-          <img src="https://img.shields.io/badge/Cloud%20Practitioner-✅-success?style=flat-square"/>
-          <img src="https://img.shields.io/badge/Solutions%20Architect-✅-success?style=flat-square"/>
-          <img src="https://img.shields.io/badge/AI%20Practitioner-✅-success?style=flat-square"/>
-        </p>
-      </td>
     </tr>
   </table>
 </div>
