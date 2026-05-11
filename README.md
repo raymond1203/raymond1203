@@ -87,4 +87,4 @@ AWS Bedrock Gallery clone serving as my first cloud architecture design. Lambda 
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raymond1203&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raymond1203&show_icons=true&hide_border=true&cache_seconds=86400&include_all_commits=true)
