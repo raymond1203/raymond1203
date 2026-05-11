@@ -57,7 +57,7 @@ AWS Bedrock Gallery clone serving as my first cloud architecture design. Lambda 
 | 2025.03 | 2025 AI Hackathon — Prompt Track (Nanum Angels × Inha Blockchain) | 🥇 1st |
 | 2025.01 | AWS Cloud AI Hackathon (Smart Social) | 🥈 2nd |
 | 2024.11 | GDGoC Project Marathon (Inha SW Center) | 🥈 2nd |
-| 2024.08 | i-BTS Agathon (Inha LINC 3.0) | 🥉 3rd |
+| 2024.08 | i-BTS IGthon (Inha LINC 3.0) | 🥉 3rd |
 | 2024.05 | Growthon Ideathon (GDSC Inha) | 🥇 1st |
 
 ---
