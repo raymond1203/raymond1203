@@ -73,7 +73,7 @@ AWS Bedrock Gallery clone serving as my first cloud architecture design. Lambda 
 ### Education
 
 **Inha University** — Computer Science & Engineering
-2023.03 – Present (3rd year, GPA 3.2)
+2023.03 – Present (3rd year)
 Activities: IGRUS (Dev Club, Executive) · GDGoC · ACC (AWS Cloud Club Inha) · BlueNode (Blockchain Club, Executive)
 
 ---
