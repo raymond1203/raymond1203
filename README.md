@@ -32,7 +32,7 @@ Python · pandas · scikit-learn · RandomForest · XGBoost · LightGBM · pears
 *Carbon Neutrality Innovation Academy 4기 (2025.05–06)*
 3-stage fallback RAG (Semantic Cache → Vector Search → MCP Web Search) + AWS CloudFormation IaC. Owned Frontend & Infrastructure solo, led Backend & Redis RAG engine (semantic cache + vector search). MCP module handled by another teammate.
 
-**SearchSafeJob** — Safe Overseas Job Search Service
+**[SearchSafeJob](https://github.com/2025-Data-Up-Contest/Safe-Job-Search-Scanner)** — Safe Overseas Job Search Service
 *DATA-UP Challenge 2nd, 2025.11*
 AI classifier on public APIs (외교부 · 국세청) detecting overseas job-fraud postings. Solo full-stack with ECS Fargate, FastAPI async, GitHub Actions CI/CD.
 
@@ -83,7 +83,7 @@ AWS Bedrock Gallery clone serving as my first cloud architecture design. Lambda 
 | **Major** | Computer Science & Engineering |
 | **Period** | 2023.03 – Present |
 | **Year** | 3rd year |
-| **Activities** | IGRUS (Dev Club, Executive) · GDGoC · ACC (AWS Cloud Club Inha) · BlueNode (Blockchain Club, Executive) |
+| **Activities** | IGRUS (Dev Club, Executive) · GDGoC(Google Developer Group on Campus) · ACC (AWS Cloud Club Inha) · BlueNode (Blockchain Club, Executive) |
 
 ---
 
