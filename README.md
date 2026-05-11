@@ -16,7 +16,7 @@ Currently focused on AI Agent construction and RAG/search systems while building
 ### Tech Stack
 
 **AI Agent · RAG**
-FastAPI · Redis Vector Search (HNSW M=16, EF=200) · Semantic Cache · OpenAI GPT-4-turbo · AWS Bedrock (Claude 3.5 Sonnet) · LangChain · MCP
+FastAPI · Redis Vector Search (HNSW M=16, EF=200) · Semantic Cache · OpenAI GPT-4-turbo · AWS Bedrock · LangChain · MCP
 
 **AWS Cloud Native**
 Lambda · API Gateway · DynamoDB · ECS Fargate · CloudFormation IaC · CodePipeline · CloudWatch
