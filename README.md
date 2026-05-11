@@ -64,17 +64,26 @@ AWS Bedrock Gallery clone serving as my first cloud architecture design. Lambda 
 
 ### Certifications
 
-- **AWS** Solutions Architect – Associate · Developer – Associate · AI Practitioner · Cloud Practitioner (2025.07–08)
-- **SQLD** — Korea Data Industry Promotion Institute (2024.09)
-- **Craftsman Information Processing** — Human Resources Development Service of Korea (2024.09)
+| Certification | Issuer | Date |
+|---|---|---|
+| AWS Certified Solutions Architect – Associate | AWS | 2025.08 |
+| AWS Certified Developer – Associate | AWS | 2025.08 |
+| AWS Certified AI Practitioner | AWS | 2025.08 |
+| AWS Certified Cloud Practitioner | AWS | 2025.07 |
+| SQL Developer (SQLD) | Korea Data Industry Promotion Institute | 2024.09 |
+| Craftsman Information Processing | Human Resources Development Service of Korea | 2024.09 |
 
 ---
 
 ### Education
 
-**Inha University** — Computer Science & Engineering
-2023.03 – Present (3rd year)
-Activities: IGRUS (Dev Club, Executive) · GDGoC · ACC (AWS Cloud Club Inha) · BlueNode (Blockchain Club, Executive)
+| | |
+|---|---|
+| **School** | Inha University |
+| **Major** | Computer Science & Engineering |
+| **Period** | 2023.03 – Present |
+| **Year** | 3rd year |
+| **Activities** | IGRUS (Dev Club, Executive) · GDGoC · ACC (AWS Cloud Club Inha) · BlueNode (Blockchain Club, Executive) |
 
 ---
 
